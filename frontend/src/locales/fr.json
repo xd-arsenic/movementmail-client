@@ -1378,6 +1378,7 @@
       "license": "Licence",
       "website": "Site web",
       "sourceCode": "Code source",
+      "upstream": "Upstream",
       "sponsor": "Soutenir le développement",
       "kofi": "Ko-fi",
       "githubSponsors": "GitHub Sponsors"

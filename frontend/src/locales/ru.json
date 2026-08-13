@@ -1378,6 +1378,7 @@
       "license": "Лицензия",
       "website": "Веб-сайт",
       "sourceCode": "Исходный код",
+      "upstream": "Исходный проект",
       "sponsor": "Поддержать разработку",
       "kofi": "Ko-fi",
       "githubSponsors": "GitHub Sponsors"

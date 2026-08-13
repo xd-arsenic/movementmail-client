@@ -1371,13 +1371,14 @@
       "title": "SSO error"
     },
     "about": {
-      "subtitle": "Open-source, self-hosted email client",
+      "subtitle": "Movementmail web client is a fork of Mailflow.",
       "version": "Version",
       "backendBuild": "Backend build",
       "frontendBuild": "Frontend build",
       "license": "License",
       "website": "Website",
       "sourceCode": "Source code",
+      "upstream": "Upstream",
       "sponsor": "Support development",
       "kofi": "Ko-fi",
       "githubSponsors": "GitHub Sponsors"

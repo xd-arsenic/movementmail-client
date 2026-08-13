@@ -1,3 +1,12 @@
+> **Movement Mail fork.** This repository is [Mailflow](https://github.com/maathimself/mailflow) with Movement Mail branding and UX edits for [mail.movementmail.org](https://mail.movementmail.org).
+>
+> - **This fork:** https://github.com/xd-arsenic/movementmail-client
+> - **Upstream:** https://github.com/maathimself/mailflow
+> - Overlay assets live in [`movementmail/`](./movementmail/) and `frontend/public/mm-*.{js,css}`.
+> - The Movement Mail **admin portal** is a separate private codebase and is **not** included here.
+
+---
+
 <p align="center">
   <img src="media/mailflow-logo.png" width="200" alt="MailFlow Logo">
 </p>

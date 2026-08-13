@@ -1308,6 +1308,7 @@
       "license": "Lizenz",
       "website": "Website",
       "sourceCode": "Quellcode",
+      "upstream": "Upstream",
       "sponsor": "Entwicklung unterstützen",
       "kofi": "Ko-fi",
       "githubSponsors": "GitHub Sponsors"

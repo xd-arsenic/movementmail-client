@@ -1,9 +1,9 @@
 {
   "name": "mailflow-frontend",
-  "productName": "MailFlow",
+  "productName": "Movement Mail",
   "version": "2.9.0",
-  "description": "A self-hosted, unified webmail client.",
-  "homepage": "https://mailflow.sh",
+  "description": "Movement Mail web client — a branded fork of Mailflow.",
+  "homepage": "https://movementmail.org",
   "author": {
     "name": "maathimself",
     "email": "matthias@mailflow.sh"
@@ -12,7 +12,7 @@
   "main": "packages/electron/main.cjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maathimself/mailflow.git"
+    "url": "git+https://github.com/xd-arsenic/movementmail-client.git"
   },
   "keywords": [
     "Email",

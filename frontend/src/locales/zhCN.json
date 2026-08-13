@@ -1378,6 +1378,7 @@
       "license": "许可证",
       "website": "官方网站",
       "sourceCode": "源代码",
+      "upstream": "上游项目",
       "sponsor": "支持开发",
       "kofi": "Ko-fi",
       "githubSponsors": "GitHub Sponsors"

@@ -5591,8 +5591,9 @@ function AboutTab() {
     [t('admin.about.license'),       'AGPL-3.0'],
   ];
   const generalRows = [
-    [t('admin.about.website'),    'https://mailflow.sh'],
-    [t('admin.about.sourceCode'), 'https://github.com/maathimself/mailflow'],
+    [t('admin.about.website'),    'https://movementmail.org'],
+    [t('admin.about.sourceCode'), 'https://github.com/xd-arsenic/movementmail-client'],
+    [t('admin.about.upstream'),   'https://github.com/maathimself/mailflow'],
   ];
   const supportRows = [
     [t('admin.about.kofi'),           'https://ko-fi.com/mailflow'],
@@ -5608,7 +5609,7 @@ function AboutTab() {
   return (
     <div style={{ maxWidth: 420 }}>
       <div style={{ fontSize: 20, fontWeight: 700, color: 'var(--text-primary)', marginBottom: 4 }}>
-        MailFlow
+        Movement Mail
       </div>
       <div style={{ fontSize: 13, color: 'var(--text-secondary)', marginBottom: 24 }}>
         {t('admin.about.subtitle')}
